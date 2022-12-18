@@ -13,7 +13,7 @@
 		<meta content='google' name='generator' />
 		<meta content='follow,all' name='msnbot' />
 		<meta content='follow,all' name='alexabot' />
-		<meta content='pakistan' name='geo.placename' />
+		<meta content='france' name='geo.placename' />
 		<meta content="index,follow,all" name="googlebot" />
 		<meta http-equiv="X-UA-Compatible" content="IE-edge" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
