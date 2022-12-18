@@ -4,7 +4,7 @@
 		<meta charset="UTF-8" />
 		<title>PhP Code Obfuscator</title>
 		<meta name="about" content="For Obfuscating Php Code Given" />
-		<meta name="author" content="An0n 3xPloiTeR" />
+		<meta name="author" content="trhacknon" />
 		<meta name="description" content="For Obfuscating the Php Code given" />
 		<meta name="keywords" content="Obfuscator, index.php, Tool" />
 		<meta http-equiv="refresh" content="">
@@ -20,7 +20,7 @@
 		<meta name='search engines' content='Aeiwi,Alexa,AllTheWeb,AltaVista,AOLNetfind,Anzwers,Canada,DirectHit,EuroSeek,Excite,Overture,Go,Google,HotBot InfoMak,Kanoodle,Lycos,MachineSite,National Directory,Northern Light,SearchIt,SimpleSearch,WebsMostLinked,WebTop,What-U-Seek,AOL,Yahoo,WebCrawler,Infoseek,Excite,Magellan,LookSmart,bing,CNET,Googlebot' />
 		<script>
 			function _alert() {
-				alert("Php Obfuscator By An0n 3xPloiTeR");
+				alert("Php Obfuscator By TRHACKNON");
 				alert("Although There Are No Rights But You Aren't Supposed To Copy HTML too! :P");
 				return false;
 			} document.oncontextmenu = _alert;
@@ -107,7 +107,7 @@
         <div class="heading">
             <font>
                 <span style="color: white;">Php Obfuscator By</span> 
-                <span style="color: red;">An0n 3xPloiTeR</span>
+                <span style="color: red;">TrhAckn0n 3xPloiTeR</span>
             </font>
         </div>
 		<div class="subheading">
